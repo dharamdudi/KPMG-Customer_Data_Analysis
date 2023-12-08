@@ -7,7 +7,7 @@ Link to the Interactive Dashboard: [KPMG - RFM Analysis](https://public.tableau.
 
 <p>
   <img src="https://github.com/dharamdudi/KPMG-Customer_Data_Analysis/blob/main/assets/img/kpmg-au.png" width="435" align="center">
-  <img src="https://github.com/dharamdudi/KPMG-Customer_Data_Analysis/blob/main/assets/img/kpmg_au2.png" width="439" align="right">
+  <img src="https://github.com/dharamdudi/KPMG-Customer_Data_Analysis/blob/main/assets/img/kpmg_au2.png" width="439" align="center">
 </p>
 
 

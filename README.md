@@ -1,7 +1,7 @@
 # KPMG AU - Customer Segmentation (RFM Analysis)
 As the part of the KPMG AU Data Analytics Virtual Internship offered by Forage, I have worked on this data analysis project.
 
-Link to the Virrual Internship: [KPMG-AU Data Analytics](https://www.theforage.com/simulations/kpmg-au/data-analytics-y7gh)
+Link to the Virtual Internship: [KPMG-AU Data Analytics](https://www.theforage.com/simulations/kpmg-au/data-analytics-y7gh)
 
 Link to the Interactive Dashboard: [KPMG - RFM Analysis](https://public.tableau.com/views/KPMG-RFMAnalysis/RFMAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
